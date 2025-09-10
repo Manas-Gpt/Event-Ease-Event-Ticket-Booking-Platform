@@ -1,0 +1,5 @@
+.ticket-availability-bar {
+  height: 100%;
+  background: linear-gradient(to right, #4ade80, #16a34a);
+  border-radius: 9999px;
+}
