@@ -29,11 +29,11 @@ A web application for booking concert tickets.
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Manas-Gpt/Event-Ease-Event-Ticket-Booking-Platform.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd project
+    cd Event-Ease-Event-Ticket-Booking-Platform
     ```
 3.  Install dependencies:
     ```bash
